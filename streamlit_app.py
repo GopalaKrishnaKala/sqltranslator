@@ -331,7 +331,7 @@ st.markdown(
 )
 
 # App title
-st.title("Code Augmentation Using Agentic AI")
+st.title("Snowflake SQL to AWS ANSI SQL Translator")
 
 # Initialize session state for chat history
 if "interactive_chat_history" not in st.session_state:
